@@ -24,9 +24,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-Our repo follows steps mentioned in [2n](https://drive.google.com/file/d/1QSgaFGV3dygyWZ2JUkI_GHgAytU5b-sI/view) project description
+Our repo follows steps mentioned in [2nd](https://drive.google.com/file/d/1QSgaFGV3dygyWZ2JUkI_GHgAytU5b-sI/view) project description
 
-- [ ] [main branch](https://github.com/ctrlzet/imgrestore/tree/main)
+- [ ] [main branch](https://github.com/ctrlzet/imgrestore/tree/main) consists of two directories correspoding to [training](https://github.com/ctrlzet/imgrestore/tree/main/training) and [inference](https://github.com/ctrlzet/imgrestore/tree/main/inference) procedures each. User required to follow a step-by-step intructions mentioned in .ipynb files located in same path.
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
