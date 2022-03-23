@@ -4,25 +4,9 @@
 This repo provides the replication of paper on image restoration. The goal is to restore high-quality images from low-quality images. We utilized SwinIR [(Liang et al., 2021)](https://arxiv.org/abs/2108.10257) model based on the Swin Transformer, which consisted of three main parts:
 * Shallow feature extraction
 * Deep feature extraction
-  – Composed of many residual Swin Trans- former blocks (RSTB), each has several Swin Transformers layers together with a residual connection
+  – Composed of many residual Swin Transformer blocks (RSTB), each has several Swin Transformers layers together with a residual connection
 * High-quality image reconstruction.
 We examined the performance of SwinIR with its default blind noises against our own synthetic noise. Moreover, we implemented the ISTA/FISTA algorithms with SwinIR as a de-noising model for non-blind deblurring problem.
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
