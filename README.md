@@ -31,7 +31,7 @@ Our repo follows steps mentioned in [2nd](https://drive.google.com/file/d/1QSgaF
 
 - [main branch](https://github.com/ctrlzet/imgrestore/tree/main) consists of two directories correspoding to [training](https://github.com/ctrlzet/imgrestore/tree/main/training) and [inference](https://github.com/ctrlzet/imgrestore/tree/main/inference) procedures each. This is all about replication of original paper + implication of projection layer. User required to follow a step-by-step intructions mentioned in `.ipynb` files located in same path.
 - The first task covering research solved [here](https://github.com/ctrlzet/imgrestore/blob/main/Research_task1.pdf).
-- Finally, ISTA/FISTA algorithms stored [here](https://github.com/ctrlzet/imgrestore/tree/ISTA_implementation).
+- Finally, ISTA/FISTA algorithms stored here: [1](https://github.com/ctrlzet/imgrestore/tree/ISTA_implementation) and [2](https://github.com/ctrlzet/imgrestore/blob/FISTA_implementation/FISTA.ipynb).
 
 <!-- CONTRIBUTING -->
 ## Contributing
