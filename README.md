@@ -21,21 +21,12 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/ctrlzet/imgrestore
    ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+Our repo follows steps mentioned in [2n](https://drive.google.com/file/d/1QSgaFGV3dygyWZ2JUkI_GHgAytU5b-sI/view) project description
+
+- [ ] [main branch](https://github.com/ctrlzet/imgrestore/tree/main)
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
