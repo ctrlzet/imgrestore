@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repo provides the replication of [paper](https://arxiv.org/abs/2108.10257) on image restoration. The goal is to restore high- quality images from low-quality images. We uti- lized SwinIR (Liang et al., 2021) model based on the Swin Transformer, which consisted of three main parts:
+This repo provides the replication of paper on image restoration. The goal is to restore high-quality images from low-quality images. We utilized SwinIR [(Liang et al., 2021)](https://arxiv.org/abs/2108.10257) model based on the Swin Transformer, which consisted of three main parts:
 • Shallow feature extraction • Deep feature extraction
 – Composed of many residual Swin Trans- former blocks (RSTB), each has several Swin Transformers layers together with a residual connection
 • High-quality image reconstruction.
