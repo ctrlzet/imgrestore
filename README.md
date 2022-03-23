@@ -1,8 +1,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+This repo provides the replication of [paper](https://arxiv.org/abs/2108.10257) on image restoration. The goal is to restore high- quality images from low-quality images. We uti- lized SwinIR (Liang et al., 2021) model based on the Swin Transformer, which consisted of three main parts:
+• Shallow feature extraction • Deep feature extraction
+– Composed of many residual Swin Trans- former blocks (RSTB), each has several Swin Transformers layers together with a residual connection
+• High-quality image reconstruction.
+We examined the performance of SwinIR with its default blind noises against our own synthetic noise. Moreover, we implemented the ISTA/- FISTA algorithms with SwinIR as a de-noising model for non-blind de-blurring problem
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
