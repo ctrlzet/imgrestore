@@ -1,12 +1,5 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield](https://github.com/scalyvladimir)]
+# Vision Transformers for Image Restoration Problems, Skoltech ML Course 2022
+[Vladimir Chernyy](https://github.com/scalyvladimir), [Ivan Gerasimov](https://github.com/GerasimovIV), [Rustam Guseynzade](https://github.com/RuS2m), [Hai Le](https://github.com/highly0), [Prateek Rajput](https://github.com/pkrajput)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
