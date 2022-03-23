@@ -6,9 +6,7 @@ This repo provides the replication of paper on image restoration. The goal is to
 * Deep feature extraction
   – Composed of many residual Swin Trans- former blocks (RSTB), each has several Swin Transformers layers together with a residual connection
 * High-quality image reconstruction.
-We examined the performance of SwinIR with its default blind noises against our own synthetic noise. Moreover, we implemented the ISTA/FISTA algorithms with SwinIR as a de-noising model for non-blind de-blurring problem.
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+We examined the performance of SwinIR with its default blind noises against our own synthetic noise. Moreover, we implemented the ISTA/FISTA algorithms with SwinIR as a de-noising model for non-blind deblurring problem.
 
 
 ### Built With
